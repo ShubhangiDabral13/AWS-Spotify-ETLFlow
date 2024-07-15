@@ -1,1 +1,1 @@
-# AWS-Spotify-ETLFlow
+# Spotlytics: Analyzing Spotify Data with AWS
